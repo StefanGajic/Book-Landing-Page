@@ -1,0 +1,1 @@
+Book landing page is made by following design https://www.figma.com/community/file/1133800374992117329
